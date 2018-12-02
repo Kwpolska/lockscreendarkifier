@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lock Screen Darkifier</string>
+    <string name="go_dark">Go Dark</string>
+    <string name="restore_default">Restore default</string>
+    <string name="set_by_current_time">Set by current time</string>
+    <string name="set_up_timer">Set up timer</string>
+</resources>
