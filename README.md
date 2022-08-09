@@ -12,7 +12,8 @@ To get this to work:
 
 1. Put your preferred hours in `app/src/main/java/com/chriswarrick/lockscreendarkifier/Options.java` and hope that assumptions made in the code fit your schedule.
 2. Put a dark wallpaper of your choosing in `app/src/main/res/raw/dark_wallpaper.png`.
-3. Build and run on your device(s).
+3. Build and install on your device(s).
+4. Grant storage permissions to the app.
 
 After install, you need to open the app and click the “Set up timer” button. (No need to do this after rebooting.)
 
